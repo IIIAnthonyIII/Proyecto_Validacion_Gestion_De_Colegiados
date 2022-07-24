@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000001B3.html"],['38',"Control.AdmColegiados Namespace","topic_00000000000000AF.html"],['106',"Contexto Class","topic_00000000000000E8.html"],['108',"Methods","topic_00000000000000E8_methods--.html"],['111',"EliminarArbitro Method","topic_00000000000000EF.html"]];

@@ -1,0 +1,1 @@
+search_result['268']=["topic_0000000000000071.html","IntegrantesColegiados.NombrejuezCentral Property","Métodos Getter y Setter de los atributos de IntegrantesColegiados."];

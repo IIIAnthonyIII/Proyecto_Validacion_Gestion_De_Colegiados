@@ -1,0 +1,1 @@
+search_result['404']=["topic_00000000000000C2.html","AdmColegiado Class","Clase para la gestión de Colegiados."];

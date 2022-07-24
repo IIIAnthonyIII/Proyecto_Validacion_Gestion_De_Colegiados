@@ -1,0 +1,1 @@
+search_result['250']=["topic_000000000000006B.html","Colegiado.ToString Method","Método que “convierte” el objeto a mostrar en texto."];

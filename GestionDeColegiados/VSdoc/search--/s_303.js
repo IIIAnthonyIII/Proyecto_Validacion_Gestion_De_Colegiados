@@ -1,0 +1,1 @@
+search_result['303']=["topic_0000000000000085.html","Equipo.ToString Method","Devuelve una cadena que representa el objeto actual."];

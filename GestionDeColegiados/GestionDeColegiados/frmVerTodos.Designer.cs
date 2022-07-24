@@ -1,7 +1,7 @@
 ﻿
 namespace GestionDeColegiados
 {
-    partial class frmVerTodos
+    partial class FrmVerTodos
     {
         /// <summary>
         /// Required designer variable.
@@ -87,7 +87,7 @@ namespace GestionDeColegiados
             this.buscar.TabIndex = 23;
             this.buscar.Text = "Buscar";
             this.buscar.UseVisualStyleBackColor = false;
-            this.buscar.Click += new System.EventHandler(this.buscar_Click);
+            this.buscar.Click += new System.EventHandler(this.Buscar_Click);
             // 
             // tablaDatos
             // 
@@ -167,7 +167,7 @@ namespace GestionDeColegiados
             this.btnEliminar.TabIndex = 25;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = false;
-            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
+            this.btnEliminar.Click += new System.EventHandler(this.BtnEliminar_Click);
             // 
             // btnEditar
             // 
@@ -180,7 +180,7 @@ namespace GestionDeColegiados
             this.btnEditar.TabIndex = 26;
             this.btnEditar.Text = "Editar Equipo";
             this.btnEditar.UseVisualStyleBackColor = false;
-            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
+            this.btnEditar.Click += new System.EventHandler(this.BtnEditar_Click);
             // 
             // frmVerTodos
             // 

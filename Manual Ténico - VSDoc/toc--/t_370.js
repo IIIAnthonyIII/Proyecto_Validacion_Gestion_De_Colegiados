@@ -1,0 +1,1 @@
+c['370']=[['371',"FrmRegistrarResultado Constructor","topic_0000000000000023.html",0],['372',"Methods","topic_0000000000000022_methods--.html",1]];

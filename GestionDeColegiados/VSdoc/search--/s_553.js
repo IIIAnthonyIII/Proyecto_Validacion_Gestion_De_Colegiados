@@ -1,0 +1,1 @@
+search_result['553']=["topic_0000000000000126.html","AdmEquipo.CantidadEquiposRegistrados Method","Método que consulta la cantidad de equipos que están presentes en la lista donde se agregan los equipos para llevar un control de registro en ella"];

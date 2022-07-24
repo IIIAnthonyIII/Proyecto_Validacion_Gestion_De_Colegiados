@@ -1,0 +1,1 @@
+search_result['245']=["topic_0000000000000066.html","Colegiado.Idcolegiado Property","Métodos Getter y Setter de los atributos de colegiado."];

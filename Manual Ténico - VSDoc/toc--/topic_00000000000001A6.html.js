@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000001B3.html"],['530',"TestFederacion Namespace","topic_00000000000001A4.html"],['531',"ColegiadoTest Class","topic_00000000000001A5.html"],['532',"Methods","topic_00000000000001A5_methods--.html"],['533',"pruebaCP002 Method","topic_00000000000001A6.html"]];

@@ -1,13 +1,8 @@
 ﻿using System;
 
-namespace Control
-{
-    [Serializable]
-    public class generarEncuentrosException : Exception
-    {
-        public generarEncuentrosException(string mensajeError) : base(mensajeError)
-        {
-
-        }
-    }
+namespace Control {
+  [Serializable]
+  public class GenerarEncuentrosException : Exception {
+    public GenerarEncuentrosException(string mensajeError) : base(mensajeError) {}
+  }
 }

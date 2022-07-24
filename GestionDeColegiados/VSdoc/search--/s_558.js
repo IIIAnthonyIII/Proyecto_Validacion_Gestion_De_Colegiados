@@ -1,0 +1,1 @@
+search_result['558']=["topic_000000000000012B.html","AdmEquipo.LlenarEquipos Method","Método encargado de llenar los labels con informacion para ser presentada al usuario donde sea invocado"];

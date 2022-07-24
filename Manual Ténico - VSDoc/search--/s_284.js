@@ -1,0 +1,1 @@
+search_result['284']=["topic_000000000000007A.html","JuezCentral.ToString Method","Método que “convierte” el objeto a mostrar en texto."];

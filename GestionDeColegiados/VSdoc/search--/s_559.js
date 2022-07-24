@@ -1,0 +1,1 @@
+search_result['559']=["topic_000000000000012C.html","AdmEquipo.ObtenerCantidadEquipo Method","método encargado de funcionar como puente entre los métodos de control con el método de data para obtener la cantidad de equipos registrados en la base de datos"];

@@ -1,0 +1,1 @@
+search_result['438']=["topic_00000000000000D8.html","AdmCuartoArbitro.GetAdmCA Method","Paso para el uso de Singleton."];

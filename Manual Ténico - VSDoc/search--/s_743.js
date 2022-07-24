@@ -1,0 +1,1 @@
+search_result['743']=["topic_0000000000000193.html","DatosEquipos.ConsultarEquiposTabla Method","Método usado para extraer los datos completos de un equipo"];

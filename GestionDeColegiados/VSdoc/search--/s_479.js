@@ -1,0 +1,1 @@
+search_result['479']=["topic_00000000000000F2.html","IAdm.ObtenerDatos Method","Método para obtener datos del colegiado seleccionado."];

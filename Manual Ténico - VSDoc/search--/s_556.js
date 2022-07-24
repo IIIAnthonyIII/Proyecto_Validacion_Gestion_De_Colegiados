@@ -1,0 +1,1 @@
+search_result['556']=["topic_0000000000000129.html","AdmEquipo.LlenaTabla Method","Método encargado de llenar un el datagridview que es usado para editar o eliminar un equipo previamente ya registrado"];

@@ -1,0 +1,1 @@
+search_result['419']=["topic_00000000000000CB.html","AdmColegiado.ObtenerNombreDeColegiadosIndex Method","Obtener nombres indexados de colegiados."];

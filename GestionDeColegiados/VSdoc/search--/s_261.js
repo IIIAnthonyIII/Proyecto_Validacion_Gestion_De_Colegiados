@@ -1,0 +1,1 @@
+search_result['261']=["topic_000000000000006F.html","CuartoArbitro.ToString Method","Método que “convierte” el objeto a mostrar en texto."];

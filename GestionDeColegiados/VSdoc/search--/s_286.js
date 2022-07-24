@@ -1,0 +1,1 @@
+search_result['286']=["topic_000000000000007C.html","Equipo Class","Clase Equipo"];

@@ -1,0 +1,1 @@
+search_result['421']=["topic_00000000000000CD.html","AdmColegiado.ObtenerCantidadColegiado Method","Obtener Cantidad de Colegiados."];

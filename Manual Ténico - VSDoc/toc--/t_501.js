@@ -1,0 +1,1 @@
+c['501']=[['502',"IdEquipo Property","topic_0000000000000080.html",0],['503',"NombreDirectoTecnico Property","topic_0000000000000083.html",0],['504',"NombreEquipo Property","topic_0000000000000081.html",0],['505',"NumeroJugadores Property","topic_0000000000000082.html",0],['506',"PresidenteEquipo Property","topic_0000000000000084.html",0]];

@@ -1,0 +1,1 @@
+search_result['676']=["topic_0000000000000164.html","DatosColegiados.ConsultarIdColegiado Method","Método para obtener los id de colegiados."];

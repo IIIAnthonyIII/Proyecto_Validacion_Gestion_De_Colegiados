@@ -1,0 +1,1 @@
+search_result['296']=["topic_000000000000007F.html","Equipo(Int32, String, Int32, String, String) Constructor","Constructor parametrizado"];

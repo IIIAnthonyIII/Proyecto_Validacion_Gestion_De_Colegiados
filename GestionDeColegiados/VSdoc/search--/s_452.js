@@ -1,0 +1,1 @@
+search_result['452']=["topic_00000000000000E1.html","AdmJuezCentral.GetAdmJ Method","Paso para el uso de Singleton."];

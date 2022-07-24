@@ -1,0 +1,1 @@
+search_result['459']=["topic_00000000000000E8.html","Contexto Class","Clase contexto para aplicar patrón de diseño Strategy."];

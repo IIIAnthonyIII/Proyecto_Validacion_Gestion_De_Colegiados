@@ -1,0 +1,1 @@
+search_result['680']=["topic_0000000000000168.html","DatosColegiados.ConsultarAsistente2 Method","Método para obtener los datos de Asistente 2."];

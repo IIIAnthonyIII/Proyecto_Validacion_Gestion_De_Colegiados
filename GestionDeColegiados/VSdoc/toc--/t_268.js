@@ -1,0 +1,1 @@
+c['268']=[['269',"CambiarEstado Method","topic_000000000000019D.html",0],['270',"ObtenerEstadioPorId Method","topic_000000000000019B.html",0],['271',"ObtenerEstadiosDisponibles Method","topic_000000000000019A.html",0],['272',"PutEstadiosDisponibles Method","topic_000000000000019C.html",0]];

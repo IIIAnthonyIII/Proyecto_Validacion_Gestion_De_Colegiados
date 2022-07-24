@@ -1,0 +1,1 @@
+search_result['428']=["topic_00000000000000D3.html","AdmColegiado.RecogerDatosEliminar Method","Recoger datos para eliminar el árbitro seleccionado."];

@@ -1,0 +1,1 @@
+search_result['759']=["topic_000000000000019E.html","FalloBDException Class","Excepcion para verificar fallos en la BD."];

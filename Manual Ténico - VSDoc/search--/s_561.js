@@ -1,0 +1,1 @@
+search_result['561']=["topic_000000000000012E.html","AdmEquipo.ExtraerEquipos Method","Solicita los campos de la base de datos a otro metodo que hace la funcionalidad de extraerlos de  la BD"];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000001B3.html"],['202',"Data Namespace","topic_000000000000015D.html"],['250',"DatosEnuenctrosGenerados Class","topic_000000000000018A.html"],['251',"Methods","topic_000000000000018A_methods--.html"],['257',"ObtenerEncuentrosPendientes Method","topic_0000000000000190.html"]];

@@ -1,0 +1,1 @@
+search_result['422']=["topic_00000000000000CE.html","AdmColegiado.ValidarCedula Method","Consulta para validar si el arbitro ya está registrado."];

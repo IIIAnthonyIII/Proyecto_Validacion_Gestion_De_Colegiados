@@ -1,0 +1,1 @@
+search_result['425']=["topic_00000000000000D0.html","AdmColegiado.RecogerDatosEditar Method","Método para recoger los datos del colegiado seleccionado."];

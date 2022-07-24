@@ -1,0 +1,1 @@
+search_result['742']=["topic_0000000000000192.html","DatosEquipos.ObtenerEquipoPorId Method","Método que permite obtener el nombre y el id de un equipos por identificador"];

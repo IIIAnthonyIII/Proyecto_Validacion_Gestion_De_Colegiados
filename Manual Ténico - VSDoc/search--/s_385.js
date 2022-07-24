@@ -1,0 +1,1 @@
+search_result['385']=["topic_00000000000000B4.html","AdmAsistente1.ObtenerDatos Method","Método ObtenerDatos de la interface IAdm."];

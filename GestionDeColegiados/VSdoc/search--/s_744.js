@@ -1,0 +1,1 @@
+search_result['744']=["topic_0000000000000194.html","DatosEquipos.EliminarEquipo Method","Método que permite eliminar un equipo, en este caso cambiar el estado de un equipo"];

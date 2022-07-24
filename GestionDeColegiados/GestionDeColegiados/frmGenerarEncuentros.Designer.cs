@@ -1,7 +1,7 @@
 ﻿
 namespace GestionDeColegiados
 {
-    partial class frmGenerarEncuentros
+    partial class FrmGenerarEncuentros
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace GestionDeColegiados
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmGenerarEncuentros));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmGenerarEncuentros));
             this.lblTitulo = new System.Windows.Forms.Label();
             this.btnGenerarEncuentros = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
@@ -102,7 +102,7 @@ namespace GestionDeColegiados
             this.btnGenerarEncuentros.TabIndex = 16;
             this.btnGenerarEncuentros.Text = "Generar encuentros";
             this.btnGenerarEncuentros.UseVisualStyleBackColor = false;
-            this.btnGenerarEncuentros.Click += new System.EventHandler(this.generarEncuentros_Click);
+            this.btnGenerarEncuentros.Click += new System.EventHandler(this.GenerarEncuentros_Click);
             // 
             // label7
             // 
@@ -140,7 +140,7 @@ namespace GestionDeColegiados
             this.btnGuardarEncuentros.TabIndex = 22;
             this.btnGuardarEncuentros.Text = "Registrar encuentros";
             this.btnGuardarEncuentros.UseVisualStyleBackColor = false;
-            this.btnGuardarEncuentros.Click += new System.EventHandler(this.guardarDatos_Click);
+            this.btnGuardarEncuentros.Click += new System.EventHandler(this.GuardarDatos_Click);
             // 
             // pictureBox1
             // 

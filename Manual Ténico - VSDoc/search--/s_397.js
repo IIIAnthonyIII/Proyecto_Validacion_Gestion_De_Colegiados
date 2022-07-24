@@ -1,0 +1,1 @@
+search_result['397']=["topic_00000000000000BB.html","AdmAsistente2.GetAdmA2 Method","Paso para el uso de Singleton."];
